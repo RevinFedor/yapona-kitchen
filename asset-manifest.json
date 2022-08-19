@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yapona-kitchen/static/css/main.aa640a32.chunk.css",
+    "main.js": "/yapona-kitchen/static/js/main.a537d45c.chunk.js",
+    "main.js.map": "/yapona-kitchen/static/js/main.a537d45c.chunk.js.map",
+    "runtime-main.js": "/yapona-kitchen/static/js/runtime-main.4c5551f7.js",
+    "runtime-main.js.map": "/yapona-kitchen/static/js/runtime-main.4c5551f7.js.map",
+    "static/js/2.88a1d96b.chunk.js": "/yapona-kitchen/static/js/2.88a1d96b.chunk.js",
+    "static/js/2.88a1d96b.chunk.js.map": "/yapona-kitchen/static/js/2.88a1d96b.chunk.js.map",
+    "index.html": "/yapona-kitchen/index.html",
+    "static/css/main.aa640a32.chunk.css.map": "/yapona-kitchen/static/css/main.aa640a32.chunk.css.map",
+    "static/js/2.88a1d96b.chunk.js.LICENSE.txt": "/yapona-kitchen/static/js/2.88a1d96b.chunk.js.LICENSE.txt",
+    "static/media/1.a2b4b921.jpg": "/yapona-kitchen/static/media/1.a2b4b921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5551f7.js",
+    "static/js/2.88a1d96b.chunk.js",
+    "static/css/main.aa640a32.chunk.css",
+    "static/js/main.a537d45c.chunk.js"
+  ]
+}
